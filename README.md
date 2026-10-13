@@ -10,7 +10,7 @@ My background is in agricultural economics (Al-Azhar University) and two years o
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Churn Prediction ETL & ML Pipeline](https://github.com/mohammedelhor/Churn-Prediction-ETL-ML-Pipeline) | Bank churn pipeline: validated ETL, BigQuery, model comparison at matched recall, cross-validated threshold, prediction API, Airflow, tests and CI | Python, pandas, DuckDB, BigQuery, scikit-learn, XGBoost, FastAPI, Docker, Airflow |
-| [Stroke Prediction ETL Pipeline](https://github.com/mohammedelhor/ML-Pipeline-Project) | ETL and ML pipeline for stroke risk: validation, feature engineering, SMOTE, model comparison, REST API | Python, scikit-learn, XGBoost, BigQuery, FastAPI, Docker, Airflow |
+| [Stroke Prediction ETL Pipeline](https://github.com/mohammedelhor/stroke-prediction-etl-pipeline) | ETL and ML pipeline for stroke risk: validation, feature engineering, SMOTE, model comparison, REST API | Python, scikit-learn, XGBoost, BigQuery, FastAPI, Docker, Airflow |
 | AURA smart farming platform | AI-powered farm system for fennel and medicinal plants (FAO-56 Penman-Monteith + XGBoost irrigation). *In progress.* | Python, XGBoost, Open-Meteo API |
 
 ## Tech stack
