@@ -15,11 +15,11 @@ My background is in agricultural economics (Al-Azhar University) and two years o
 
 ## Tech stack
 
-**Languages & data:** Python · SQL · pandas · NumPy · DuckDB · Parquet
-**ML:** scikit-learn · XGBoost · SMOTE · cross-validation
-**Data engineering:** BigQuery · Apache Airflow · ETL design
-**APIs & DevOps:** FastAPI · Docker · Git · GitHub Actions · pytest
-
+- **Languages & data:** Python · SQL · pandas · NumPy · DuckDB · Parquet
+- **ML:** scikit-learn · XGBoost · SMOTE · cross-validation
+- **Data engineering:** BigQuery · Apache Airflow · ETL design
+- **APIs & DevOps:** FastAPI · Docker · Git · GitHub Actions · pytest
+- 
 ## Currently
 
 - Completing a data engineering diploma
